@@ -1,3 +1,3 @@
-## UM Software Engineering Y1 24/25
+## UM Software Engineering Y3
 🔭 Setting out on an endless journey
 
