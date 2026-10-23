@@ -4,4 +4,4 @@
   <img src="./journey-map.svg" alt="Education Journey Map" width="750" />
 </p>
 
-<p>Let's connect and share!</p>
+<h2>Let's connect and share!</h2>
